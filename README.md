@@ -9,12 +9,12 @@ If Q is answered RIGHT:<br>
 Servo motor to move forward when a Q is answered right(in demo, I pasted a cutout of steve holding a sword so it seems like an you are "attacking" someone when a Q is answered right. <br>
 Score increases. <br>
 Message displayed to show correct and score <br>
-
+<br>
 If Q is answered WRONG:<br>
 Red LED for when a Q is answered wrongly. <br>
 Lives decrease(start with 3 lives)<br>
 Message displayed to show wrong and lives left  <br>
-
+<br>
 Gameover(no more lives):<br>
 Servo motor makes 180 degree turn(to like "hang yourself" lol)<br>
 Red LED lights up<br>
