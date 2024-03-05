@@ -4,7 +4,7 @@ Flow: Asks for register number -> Asks difficulty level(Easy[+10] or Hard[+25]) 
 *If you input a single digit regnum, press "*" to submit <br>
 *All inputs are with lcd keypad <br>
 Website: Displays register number, timestamp, difficulty level, score<br>
-
+<br>
 If Q is answered RIGHT:<br>
 Servo motor to move forward when a Q is answered right(in demo, I pasted a cutout of steve holding a sword so it seems like an you are "attacking" someone when a Q is answered right. <br>
 Score increases. <br>
