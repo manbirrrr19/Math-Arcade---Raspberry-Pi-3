@@ -1,3 +1,4 @@
+<h1>MATH ARCADE</h1> 
 This is a math game using Raspberry Pi 3(Python) <br>
 Flow: Asks for register number -> Asks difficulty level(Easy[+10] or Hard[+25]) -> Questions(Random generated variables within a range, comes in addition or subtraction) -> Uploads data to Website and Thinkspeak <br>
 *If you input a single digit regnum, press "*" to submit <br>
